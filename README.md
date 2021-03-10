@@ -19,7 +19,7 @@ __This will also be bold__\
 http://github.com - automatic!
 [GitHub](http://github.com)
 
-✨
+✨ 🤍
 
 ```javascript
 function test() {
