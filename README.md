@@ -21,7 +21,7 @@ http://github.com - automatic!
 
 ✨
 
-```javascript
+```css
 function test() {
  console.log("look ma’, no spaces");
 }
