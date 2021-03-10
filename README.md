@@ -9,7 +9,7 @@ readme demo with markdown! demo repo to practice markdown
 _This will also be italic_\
 **This text will be bold**\
 __This will also be bold__\
-*You **can** combine them*\
+*You **can** combine them*
 
 * Item 1
 * Item 2
@@ -18,3 +18,11 @@ __This will also be bold__\
 
 http://github.com - automatic!
 [GitHub](http://github.com)
+
+✨
+
+```javascript
+function test() {
+ console.log("look ma’, no spaces");
+}
+```
